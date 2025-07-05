@@ -1,0 +1,9 @@
+{
+  "design_name": "mblock",
+  "verilog_files": ["../../rtl/mblock.sv"],
+  "top_module": "mblock",
+  "clock_port": "clk",
+  "clock_period": 10,
+  "scl": "sky130_fd_sc_hd",
+  "pdk": "sky130A"
+}
